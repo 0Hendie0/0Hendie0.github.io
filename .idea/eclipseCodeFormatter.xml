@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="configType" value="ECLIPSE_2_1" />
+        <option name="eclipseVersion" value="CUSTOM" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="optimizeImports" value="false" />
+      </ProjectSpecificProfile>
+    </option>
+    <option name="selectedGlobalProfileReference">
+      <GlobalProfileReference>
+        <option name="id" value="1707006073738" />
+        <option name="name" value="new" />
+      </GlobalProfileReference>
+    </option>
+  </component>
+</project>
